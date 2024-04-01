@@ -44,6 +44,7 @@ public class week8 {
 	robot.keyPress(KeyEvent.VK_ENTER);
 	Thread.sleep(500);
 	robot.keyPress(KeyEvent.VK_ENTER);
+	Thread.sleep(500);
 	driver.quit();
 	}
 	}
